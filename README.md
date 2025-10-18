@@ -7,6 +7,8 @@
 
 - 📝 I regularly write articles on [https://faizan-shoukat-abbasi.vercel.app/blogs](https://faizan-shoukat-abbasi.vercel.app/blogs)
 
+- Upwork Link [Upwork Profile link](https://upwork.com/freelancers/faizanabbasi70)
+
 - 💬 Ask me about **Frontend Technologies (JS, React, Next), Backend (Node, Nest, ROR, Django) & DevOps (AWS, Docker, Github Actions, CI/CD)**
 
 - 📫 How to reach me **abbasi.faizan70@gmail.com**
