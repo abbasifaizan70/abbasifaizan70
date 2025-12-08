@@ -2,18 +2,16 @@
 <h3 align="center">Expert in Full-Stack Development and DevOps with Proficiency in React, Nest, Next, ROR, Django, AWS, and Agile Methodologies</h3>
 
 - 🌱 I’m currently learning **New DevOps Technologies Like AWS.**
-
+<!-- 
 - 👨‍💻 All of my projects are available at [https://faizan-shoukat-abbasi.vercel.app/projects](https://faizan-shoukat-abbasi.vercel.app/projects)
 
 - 📝 I regularly write articles on [https://faizan-shoukat-abbasi.vercel.app/blogs](https://faizan-shoukat-abbasi.vercel.app/blogs)
-
+-->
 - Upwork Link [Upwork Profile link](https://upwork.com/freelancers/faizanabbasi70)
 
 - 💬 Ask me about **Frontend Technologies (JS, React, Next), Backend (Node, Nest, ROR, Django) & DevOps (AWS, Docker, Github Actions, CI/CD)**
 
 - 📫 How to reach me **abbasi.faizan70@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/15RZV1a5hjPLRtWmdcs1IaD00QnNIe6uM/view](https://drive.google.com/file/d/15RZV1a5hjPLRtWmdcs1IaD00QnNIe6uM/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
